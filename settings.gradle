@@ -21,6 +21,6 @@ dependencyResolutionManagement {
         gradlePluginPortal()
     }
 }
-rootProject.name = "TestStudio2021"
+rootProject.name = "FlycoDialog"
 include ':app'
 include ':FlycoDialog_Lib'
