@@ -8,7 +8,10 @@ GC: G1 Young Generation, G1 Old Generation
 Memory: 2048M
 Cores: 12
 
-  
+# ./gradlew FlycoDialog_Lib:assembleRelea
+
+  module生成aar命令： ./gradlew FlycoDialog_Lib:assembleRelea
+
 # FlycoDialog-Master
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-FlycoDialog--Matser-green.svg?style=flat)](https://android-arsenal.com/details/1/2430)
 #### [中文版](https://github.com/H07000223/FlycoDialog_Master/blob/master/README_CN.md)
