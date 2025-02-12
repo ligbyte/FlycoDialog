@@ -7,10 +7,13 @@ Windows 11 10.0
 GC: G1 Young Generation, G1 Old Generation
 Memory: 2048M
 Cores: 12
+JDK: 11
 
-# ./gradlew FlycoDialog_Lib:assembleRelea
+# ./gradlew
 
   module生成aar命令： ./gradlew FlycoDialog_Lib:assembleRelea
+
+  命令行编译项目: ./gradlew assembledebug
 
 # FlycoDialog-Master
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-FlycoDialog--Matser-green.svg?style=flat)](https://android-arsenal.com/details/1/2430)
